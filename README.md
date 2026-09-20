@@ -2,8 +2,6 @@
 
 # [![Status](https://img.shields.io/badge/Status-Updated-brightgreen)]()
 
-!Version(https://img.shields.io/badge/Version-Latest-blue)()
-
 **Tags:** `game` `download` `downloads` `gaming` `release` `latest` `install` `setup`
 
 `no-more-room-in-hell-2-cheats` · Updated: 2026-09-20
